@@ -6,5 +6,4 @@ This repository contains a **Python Crash Course** designed for beginners who wa
 ## Installation
 1. Make sure you have **Python 3.x** installed.  
 2. Clone this repository:  
-```bash
 
